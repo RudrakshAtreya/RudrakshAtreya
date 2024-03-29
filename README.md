@@ -1,30 +1,34 @@
 <!--# 🅡🅤🅓🅡🅐🅚🅢🅗   🅐🅣🅡🅔🅨🅐 -->
 
-<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/rudraksh.gif" alt="Rudraksh Atreya" align="left" width="200" height="auto" />  
+<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/rudraksh.gif" alt="Rudraksh Atreya" align="left" width="300" height="auto" />  
+<br>
+<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/de_life.png" alt="life of a data engineer" align="right" width="500" height="auto" />
+<br><br><br><br>
 
-<br>
-<br>
 
 
 ### Hello World!  <img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/Hi.gif" width="29px">
-<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/sleep_and_work.gif" alt="side Image" align="right" width="200" height="auto" />
-<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/Rudraksh Atreya.pdf" alt="side Image" align="right" width="200" height="auto" />
 
 <!--<a href="https://ko-fi.com/RudrakshAtreya"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 -->
-
+A passionate data professional with 5 years of experience in leveraging data to drive insights and decision-making. My journey in the data realm has equipped me with a deep understanding of data processing, analysis, and visualization techniques.
       
   - 🔭 I’m currently working as a Consultant - Analytics at EXL Service.
   - 🌱 Crafting myself in a better way in this Big Data world.
-  - 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/RudrakshAtreya) and Tintin comics
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: My name is an anagram of "I Play Data"
-  
-  #### 📫 How to reach me:
-  
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/mongocds/)  &nbsp; [<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/RudrakshAtreya)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rudraksh-atreya/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.pal23/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya.pal23/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
-  #### 👨🏻‍💻 Languages and Tools <br />
+  - 🛢️ SQL is my love language.
+  - 📊 Just play with Python and R when the data doesn't make sense in simple ways.
+  - ⚡ No one accepts this fact but Spreadsheets are somewhere we all end up going to.
+<br>
+<h2 style="font-size:20px;">📫 How to reach me:</h2> 
+<h6 style="font-size:10px;">  </h6>   
+
+  [<img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/topmate_logo.jpg" width="3.5%"/>](https://www.topmate.io/rudraksh_atreya12)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/rudraksh-atreya/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/datainsightslab)  &nbsp; <a href="mailto:atrudra15@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+  <img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/sleep_and_work.gif" alt="sleep and work" align="right" width="300" height="auto" />
+
+  <br>
+<h2 style="font-size:20px;">👨🏻‍💻 Languages and Tools</h2> 
+   <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
@@ -39,7 +43,9 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-  
+
+
+<!--  
   [![Stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtreya&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RudrakshAtreya&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/master/assets/saved.gif" width="195">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=RudrakshAtreya&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=RudrakshAtreya&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
@@ -70,4 +76,6 @@
 
 Chart last updated - Wed Mar 27 02:01:38 EDT 2024  
   ```
+
+  -->
   
