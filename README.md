@@ -36,14 +36,14 @@ A passionate data professional with 5 years of experience in leveraging data to 
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg"></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/R_studio.png"></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/sql_logo.svg"></code>
-  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/power_bi.svg"></code>
-  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/hadoop.svg"></code>
-  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/apache_spark.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/power_bi_2.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/hadoop_2.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/apache_spark_2.svg"></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/microsoft-azure.svg "></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/Databricks_Logo.svg"></code>
-  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/jupyter.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/jupyter_2.svg"></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/GitHub-Logo.svg"></code>
-  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/docker.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/docker_2.svg"></code>
   <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/linux.png"></code>
 
   <!--<code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg"></code>
