@@ -29,21 +29,26 @@ A passionate data professional with 5 years of experience in leveraging data to 
   <br>
 <h2 style="font-size:20px;">👨🏻‍💻 Languages and Tools</h2> 
    <br />
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+   <div style="display: flex; align-items: center;">
+ <!-- <img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg" alt="Python" style="margin-right: 10px;"> Python
+</div> -->
 
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/R_studio.png"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/sql_logo.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/power_bi.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/hadoop.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/apache_spark.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/microsoft-azure.svg "></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/Databricks_Logo.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/jupyter.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/GitHub-Logo.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/docker.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/linux.png"></code>
+
+  <!--<code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg"></code>
+  <code><img height="40" src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/main/assets/logo/python.svg"></code>
+-->
 
 <!--  
   [![Stats](https://github-readme-stats.vercel.app/api?username=RudrakshAtreya&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=RudrakshAtreya&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/RudrakshAtreya/RudrakshAtreya/blob/master/assets/saved.gif" width="195">
